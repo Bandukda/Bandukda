@@ -37,11 +37,6 @@ flowchart LR
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bandukda&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=00d296&icon_color=00b4dc&text_color=ffffff" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bandukda&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=00d296&text_color=ffffff" alt="Top Languages" width="45%" />
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/sadiq-bandukda-63593916a) · [rinqo.ai](https://rinqo.ai) · [Email](mailto:sadiq_bandukda@hotmail.com)
