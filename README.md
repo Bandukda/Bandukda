@@ -51,7 +51,26 @@ flowchart LR
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI / LLMs**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-8B008B?style=for-the-badge&logoColor=white) ![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-2E8B57?style=for-the-badge&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00d296?style=for-the-badge&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-6A0DAD?style=for-the-badge&logo=anthropic&logoColor=white)
+
+**ML / Data Science**
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-00b4dc?style=for-the-badge&logoColor=white) ![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-006d75?style=for-the-badge&logoColor=white) ![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-8B008B?style=for-the-badge&logoColor=white) ![Surrogate Modeling](https://img.shields.io/badge/Surrogate%20Modeling-2E8B57?style=for-the-badge&logoColor=white)
+
+**Data Visualization**
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**AI App Frameworks**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Chainlit](https://img.shields.io/badge/Chainlit-000000?style=for-the-badge&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Cloud & DevOps**
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Data Engineering**
+![Alteryx](https://img.shields.io/badge/Alteryx-FF6900?style=for-the-badge&logo=alteryx&logoColor=white) ![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-00d296?style=for-the-badge&logoColor=white) ![Schema-aware LLM Grounding](https://img.shields.io/badge/Schema--aware%20LLM%20Grounding-8B008B?style=for-the-badge&logoColor=white)
 
 ## Connect
 
