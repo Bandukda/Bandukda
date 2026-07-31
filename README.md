@@ -57,7 +57,7 @@ flowchart LR
 
 **AI / LLMs**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-8B008B?style=for-the-badge&logoColor=white) ![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-2E8B57?style=for-the-badge&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00d296?style=for-the-badge&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-6A0DAD?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-8B008B?style=for-the-badge&logo=langgraph&logoColor=white&cacheSeconds=3600) ![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-2E8B57?style=for-the-badge&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00d296?style=for-the-badge&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-6A0DAD?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 
 **ML / Data Science**
 
@@ -73,11 +73,11 @@ flowchart LR
 
 **Cloud & DevOps**
 
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Data Engineering**
 
-![Alteryx](https://img.shields.io/badge/Alteryx-FF6900?style=for-the-badge&logo=alteryx&logoColor=white) ![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-00d296?style=for-the-badge&logoColor=white) ![Schema-aware LLM Grounding](https://img.shields.io/badge/Schema--aware%20LLM%20Grounding-8B008B?style=for-the-badge&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-FF6900?style=for-the-badge&logoColor=white) ![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-00d296?style=for-the-badge&logoColor=white) ![Schema-aware LLM Grounding](https://img.shields.io/badge/Schema--aware%20LLM%20Grounding-8B008B?style=for-the-badge&logoColor=white)
 
 ## Connect
 
