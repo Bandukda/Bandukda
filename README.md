@@ -20,11 +20,27 @@ I build AI systems designed to operate autonomously in production, not just perf
 
 ```mermaid
 flowchart LR
-    A[Real-World Signal] --> B[Agent Reasoning]
-    B --> C[Tool-Use / Retrieval]
-    C --> D[Guardrails & Evaluation]
-    D --> E[Production Deployment]
-    E -->|feedback loop| A
+    A(["📡 Real-World Signal"]) --> B{{"🧠 Agent Reasoning"}}
+    B --> C{{"🔍 Tool-Use / Retrieval"}}
+    C --> D{{"🛡️ Guardrails & Evaluation"}}
+    D --> E(["🚀 Production Deployment"])
+    E -.->|"⚡ feedback loop"| A
+
+    classDef signal fill:#0d0d0d,stroke:#00f0ff,stroke-width:3px,color:#00f0ff,font-weight:bold
+    classDef agent fill:#0d0d0d,stroke:#ff00e6,stroke-width:3px,color:#ff00e6,font-weight:bold
+    classDef guard fill:#0d0d0d,stroke:#00ff9d,stroke-width:3px,color:#00ff9d,font-weight:bold
+    classDef deploy fill:#0d0d0d,stroke:#a020f0,stroke-width:3px,color:#a020f0,font-weight:bold
+
+    class A signal
+    class B,C agent
+    class D guard
+    class E deploy
+
+    linkStyle 0 stroke:#00f0ff,stroke-width:2px
+    linkStyle 1 stroke:#ff00e6,stroke-width:2px
+    linkStyle 2 stroke:#00ff9d,stroke-width:2px
+    linkStyle 3 stroke:#a020f0,stroke-width:2px
+    linkStyle 4 stroke:#ffea00,stroke-width:2px,stroke-dasharray: 5 5
 ```
 
 **Rinqo** — an AI voice agent platform I founded and built solo, answering restaurant phone calls 24/7, handling reservations, orders, and menu questions end to end.
